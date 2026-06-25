@@ -77,7 +77,7 @@ x = [x,y,z,vx,vy,vz]^T
 
 Motion Model:
 
-x_k = F x_{k-1}
+$x_k = F x_{k-1}$
 
 Measurement:
 
