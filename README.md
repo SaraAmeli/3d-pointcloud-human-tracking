@@ -55,7 +55,7 @@ python scripts/generate_plots.py
 
 ![trajectory](results/trajectory.png)
 
-The figure below shows the reconstructed top-down trajectory of the tracked human obtained from Kalman-filtered centroid estimates.
+This figure shows the reconstructed top-down trajectory of the tracked human obtained from Kalman-filtered centroid estimates.
 
 ### Velocity
 
