@@ -88,6 +88,26 @@ Prediction → Update → Association
 
 ---
 
+## Dataset
+
+Place the PCD sequence inside:
+
+```text
+data/mapHumanOnly/
+```
+
+Expected structure:
+
+```text
+data/mapHumanOnly/
+├── occupied_0ms.pcd
+├── occupied_50ms.pcd
+├── ...
+```
+
+The dataset is not included in this repository because of its size.
+
+
 ## Future Work
 
 - Multi-human tracking
