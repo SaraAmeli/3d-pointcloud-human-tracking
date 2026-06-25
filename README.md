@@ -55,15 +55,19 @@ python scripts/generate_plots.py
 
 ![trajectory](results/trajectory.png)
 
+The figure below shows the reconstructed top-down trajectory of the tracked human obtained from Kalman-filtered centroid estimates.
+
 ### Velocity
 
 ![velocity](results/velocity.png)
+
+Instantaneous and smoothed human speed estimates over time. The Kalman filter reduces noise and provides a stable velocity profile.
 
 ### ID Timeline
 
 ![timeline](results/id_timeline.png)
 
----
+Timeline of assigned track IDs throughout the sequence. The dominant track remains stable for most frames, indicating successful temporal association.
 
 ## Tracking Model
 
