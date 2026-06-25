@@ -81,7 +81,7 @@ $x_k = F x_{k-1}$
 
 Measurement:
 
-z_k = H x_k
+$z_k = H x_k$
 
 Kalman Filter:
 Prediction → Update → Association
