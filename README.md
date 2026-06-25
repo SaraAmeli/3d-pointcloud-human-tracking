@@ -73,7 +73,7 @@ Timeline of assigned track IDs throughout the sequence. The dominant track remai
 
 State Vector:
 
-x = [x,y,z,vx,vy,vz]^T
+$x = [x,y,z,vx,vy,vz]^T$
 
 Motion Model:
 
